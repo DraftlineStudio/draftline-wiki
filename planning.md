@@ -15,4 +15,4 @@ never open either. They are here for the part of the work that happens away
 from the prose.
 
 - **[The Planner](/planning/the-planner)** — story lines, cards, and the timeline
-- **[Characters](/planning/characters)** — the cast, and what Draftline notices by itself
+- **[Characters](/planning/characters)** — the cast, and the three ways of seeing who is where
