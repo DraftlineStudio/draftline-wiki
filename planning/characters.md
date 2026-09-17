@@ -11,7 +11,13 @@ dateCreated: 2026-09-18T00:00:00.000Z
 # Characters
 
 The **Characters** glyph in the tool rail, or the Cast view for the whole
-window.
+window. The rail panel is for a quick look while you write; the Cast view is
+where the three views below have room to be read.
+
+<!-- SCREENSHOT: planning/characters-panel.png
+     The Characters panel open from the tool rail, beside a chapter of prose,
+     so it is clear this is the quick look rather than the full Cast view.
+     Invented cast. -->
 
 Each person has a name, whatever description and notes you want to keep, a
 role, and the chapters they appear in. The appearances are read out of the
