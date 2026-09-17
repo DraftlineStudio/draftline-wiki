@@ -59,5 +59,8 @@ anything older than that, see
 
 ## Saving
 
-A few seconds after you stop typing. The status bar says when it last did, and
-there is no Save button because there is nothing to save by hand.
+A few seconds after you stop typing. The status bar says when it last did.
+
+**Ctrl+S** saves immediately if you would rather not wait, and **Ctrl+Shift+S**
+saves a copy under a new name and carries on in the copy — which is how you
+fork a draft before a rewrite you are not sure about.

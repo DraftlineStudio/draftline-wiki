@@ -70,7 +70,8 @@ Draftline window.
 Draftline saves a few seconds after you stop typing. The status bar along the
 bottom says when it last did.
 
-There is no Save button, and no way to be in a document you have not saved.
+**Ctrl+S** saves immediately if you would rather not wait for it.
+
 **Save & Quit** in the menu saves and exits; **Back to Library** saves and
 returns to the start screen. Both refuse to leave if the save fails, so you
 cannot walk away from work that did not make it to disk.

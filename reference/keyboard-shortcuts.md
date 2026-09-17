@@ -12,6 +12,34 @@ dateCreated: 2026-09-18T00:00:00.000Z
 
 On macOS, use **Cmd** wherever this page says **Ctrl**.
 
+## The book
+
+| | |
+|---|---|
+| **Ctrl+S** | Save now |
+| **Ctrl+Shift+S** | Save As — save a copy under a new name and keep working in it |
+| **Ctrl+N** | New book |
+| **Ctrl+O** | Open a book |
+
+Draftline saves on its own a few seconds after you stop typing, so **Ctrl+S**
+is there for the moment before you step away rather than because anything is
+waiting to be written.
+
+**Save As** is how you fork a draft: it writes a copy, and you carry on in the
+copy, leaving the original where it was.
+
+## Finding things
+
+| | |
+|---|---|
+| **Ctrl+F** | Find in this chapter |
+| **Ctrl+H** | Find and replace in this chapter |
+| **Ctrl+Shift+F** | Search the whole book |
+
+**Ctrl+F** works in the chapter you are in. **Ctrl+Shift+F** opens the
+story-wide search, which is the one you want for "where did I mention the
+lighthouse".
+
 ## Formatting
 
 | | |
@@ -22,9 +50,25 @@ On macOS, use **Cmd** wherever this page says **Ctrl**.
 | **Ctrl+Shift+B** | Block quote |
 | **Ctrl+Alt+C** | Code block |
 
-Strikethrough, superscript, subscript, alignment and lists are on the
-toolbar rather than the keyboard. They are rare enough in a novel that a
-shortcut for each would cost more than it saved.
+Strikethrough, superscript, subscript, alignment and lists are on the toolbar
+rather than the keyboard — rare enough in a novel that a shortcut each would
+cost more than it saved.
+
+## The window
+
+| | |
+|---|---|
+| **Ctrl+[** | Show or hide the chapter panel |
+
+## Read Aloud
+
+Only while Read Aloud is enabled in Settings.
+
+| | |
+|---|---|
+| **Ctrl+Shift+L** | Start reading from the cursor, or pause and resume |
+| **Ctrl+Shift+.** | Skip forward |
+| **Ctrl+Shift+,** | Skip back |
 
 ## Editing
 
@@ -34,13 +78,13 @@ shortcut for each would cost more than it saved.
 | **Ctrl+X / C / V** | Cut, copy, paste |
 | **Ctrl+Shift+V** | Paste without formatting |
 
-Undo history is per chapter and resets when you move to another one. If you
-need something from further back than undo reaches, you want
+Undo history is per chapter and resets when you move to another one. For
+anything older than undo reaches, see
 **[Chapter history](/writing/chapter-history)**.
 
 ## Reviewing changes
 
-When a panel offers you changes to accept or reject:
+When a panel offers changes to accept or reject:
 
 | | |
 |---|---|
@@ -51,16 +95,12 @@ When a panel offers you changes to accept or reject:
 
 ## Dialogs
 
-**Esc** closes any dialog without applying it. **Enter** confirms the one it
-is in, where there is an obvious thing to confirm.
+**Esc** closes any dialog without applying it. **Enter** confirms the one it is
+in, where there is an obvious thing to confirm.
 
-## What is not bound
-
-There is no Save shortcut, because there is nothing to save: Draftline writes
-a few seconds after you stop typing, and **Save & Quit** in the menu is the
-only time you tell it to.
+## What is deliberately not bound
 
 There is no zoom. Pinching a trackpad does nothing on purpose — it used to
 scale the whole interface like a photograph. To make the text bigger, use the
-editor font size in **[Settings](/reference/settings)**, which changes the
-text and leaves everything else where it is.
+editor text size in **[Settings](/reference/settings)**, which changes the
+prose and leaves the rest of the window where it is.
