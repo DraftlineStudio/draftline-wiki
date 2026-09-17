@@ -75,6 +75,11 @@ the window:
 - **AI** and **AI Analysis** — only when you have turned AI on and supplied a
   key of your own
 
+<!-- SCREENSHOT: getting-started/tool-rail.png
+     The tool rail down the right edge with a panel open beside it, so both the
+     column of glyphs and what one of them opens are visible in the same shot.
+     The Dashboard or Characters panel reads most clearly. Invented book. -->
+
 Click the same glyph again to close the panel. Nothing in the rail changes
 your text unless you accept a change it offers.
 
