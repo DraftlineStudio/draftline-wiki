@@ -13,10 +13,7 @@ dateCreated: 2026-09-18T00:00:00.000Z
 Draftline has one window. Everything happens inside it, and most of it can be
 put away when you only want to write.
 
-<!-- SCREENSHOT: getting-started/interface-labelled.png
-     The full window with a book open, ideally with callout numbers or labels
-     for: the title bar and menu, the left panel with its Manuscript/Planner
-     tabs, the editor, the tool rail on the right, the status bar. -->
+![Interface labelled](/getting-started/interface-labelled.png)
 
 ## The title bar
 
@@ -94,7 +91,4 @@ Close the left panel and the tool rail and you have a page and a cursor. The
 menu still reaches everything, and the status bar still tells you the book is
 safe.
 
-<!-- SCREENSHOT: getting-started/interface-bare.png
-     The same window with the left panel and tool rail both closed — just the
-     title bar, the page, and the status bar. This is the "it gets out of the
-     way" shot, so it should look calm. -->
+![Interface bare](/getting-started/interface-bare.png)

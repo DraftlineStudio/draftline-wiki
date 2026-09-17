@@ -16,10 +16,7 @@ Draftline opens on the start screen. It lists the books you have been working
 on, most recent first, each showing its cover art if one of its editions has
 any and its own colour if not.
 
-<!-- SCREENSHOT: getting-started/start-screen.png
-     The start screen with two or more recent books — at least one showing
-     cover art and one showing its colour — plus the New Book and Open Book
-     buttons. Invented titles only. -->
+![Start screen](/getting-started/start-screen.png)
 
 Click a book to open it. Right-click one for the rest, including removing it
 from the list — which does not delete anything.
@@ -44,9 +41,7 @@ and it is far easier to correct before you start writing than after. If it has
 divided the book badly, cancel, and try again after fixing the headings in the
 original.
 
-<!-- SCREENSHOT: getting-started/import-preview.png
-     The import preview after a DOCX import, showing the detected chapter list.
-     Use an invented manuscript. -->
+![Import preview](/getting-started/import-preview.png)
 
 ## What the file is
 
