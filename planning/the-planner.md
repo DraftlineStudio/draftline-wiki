@@ -16,9 +16,7 @@ lives in the book, so the plan and the prose travel together.
 Nothing here is required, and nothing here writes your manuscript. The Planner
 is what you would otherwise keep in a notebook.
 
-<!-- SCREENSHOT: planning/planner-board.png
-     The planner in card view, grouped by story line, with several lines and
-     cards across them. Invented story. -->
+![Planner board](/planning/planner-board.png)
 
 ## Story lines
 
@@ -43,9 +41,7 @@ a thread goes quiet for nine chapters.
 to end without the rest in the way. You can switch it to group by chapter from
 the toolbar, though grouped that way it says much the same as the timeline.
 
-<!-- SCREENSHOT: planning/planner-timeline.png
-     The timeline view: chapters across the top, story lines down the side,
-     cards placed in the grid. -->
+![Planner timeline](/planning/planner-timeline.png)
 
 ## Scratchpad and synopsis
 

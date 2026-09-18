@@ -14,10 +14,7 @@ The **Characters** glyph in the tool rail, or the Cast view for the whole
 window. The rail panel is for a quick look while you write; the Cast view is
 where the three views below have room to be read.
 
-<!-- SCREENSHOT: planning/characters-panel.png
-     The Characters panel open from the tool rail, beside a chapter of prose,
-     so it is clear this is the quick look rather than the full Cast view.
-     Invented cast. -->
+![Characters panel](/planning/characters-panel.png)
 
 Each person has a name, whatever description and notes you want to keep, a
 role, and the chapters they appear in. The appearances are read out of the
@@ -35,9 +32,7 @@ A cell is tinted where that character is mentioned in that chapter, in their
 own colour, and left empty where they are not. Hovering a cell names the
 chapter and the number of mentions.
 
-<!-- SCREENSHOT: planning/characters-grid.png
-     Grid view with six or more characters over twenty-odd chapters, so the
-     pattern of gaps is visible. Invented cast. -->
+![Characters grid](/planning/characters-grid.png)
 
 What it is for is **presence and absence at a glance**. A row that runs solid
 for eight chapters and then stops has a character who left the book, and the
@@ -54,9 +49,7 @@ The same rows and columns, but the tint carries **how much**, not just
 whether. A chapter with thirty mentions of someone is darker than a chapter
 with two.
 
-<!-- SCREENSHOT: planning/characters-heatmap.png
-     Heatmap view sorted by mentions, with a clear range from dark to pale so
-     the weighting reads. -->
+![Characters heatmap](/planning/characters-heatmap.png)
 
 It sorts by mentions by default and adds a **role** column — protagonist,
 antagonist, supporting, minor, other — which you set yourself.
@@ -83,9 +76,7 @@ interaction, a discovery, a conflict, a turning point, a resolution. Marks are
 coloured by what kind of moment they are, so a run of turning points reads
 differently from a run of quiet state changes.
 
-<!-- SCREENSHOT: planning/characters-interweave.png
-     The intertwined view with four or five character lines across the book
-     and a visible mix of beat types. Invented story. -->
+![Characters interweave](/planning/characters-interweave.png)
 
 It answers the questions the grid cannot. When do these two actually meet?
 How long after being introduced does she do anything? Is the confrontation you
