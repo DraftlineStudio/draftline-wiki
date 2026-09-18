@@ -1,6 +1,6 @@
 ---
 title: Planning
-description: The Planner and the cast: keeping track of what happens and who it happens to.
+description: "The Planner and the cast: keeping track of what happens and who it happens to."
 published: true
 date: 2026-09-18T00:00:00.000Z
 tags: planning

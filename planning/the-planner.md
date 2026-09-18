@@ -1,6 +1,6 @@
 ---
 title: The Planner
-description: Story lines, cards and the timeline: keeping track of what happens without leaving the book.
+description: "Story lines, cards and the timeline: keeping track of what happens without leaving the book."
 published: true
 date: 2026-09-18T00:00:00.000Z
 tags: planning, planner

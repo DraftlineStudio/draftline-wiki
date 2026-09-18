@@ -1,6 +1,6 @@
 ---
 title: Characters
-description: The cast: who is in the book, where they appear, and what Draftline works out on its own.
+description: "The cast: who is in the book, where they appear, and what Draftline works out on its own."
 published: true
 date: 2026-09-18T00:00:00.000Z
 tags: planning, characters

@@ -1,6 +1,6 @@
 ---
 title: Chapters and the manuscript
-description: How a book is structured in Draftline: front matter, the body, back matter, and moving things around.
+description: "How a book is structured in Draftline: front matter, the body, back matter, and moving things around."
 published: true
 date: 2026-09-18T00:00:00.000Z
 tags: writing, chapters
