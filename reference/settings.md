@@ -2,7 +2,7 @@
 title: Settings
 description: Every preference in Draftline and what it changes.
 published: true
-date: 2026-09-18T00:00:00.000Z
+date: 2026-10-27T00:00:00.000Z
 tags: reference, settings
 editor: markdown
 dateCreated: 2026-09-18T00:00:00.000Z
@@ -10,7 +10,7 @@ dateCreated: 2026-09-18T00:00:00.000Z
 
 # Settings
 
-**Settings** in the menu. Six sections.
+**Settings** in the menu. Seven sections.
 
 <!-- SCREENSHOT: reference/settings.png
      The settings dialog open on Application, showing the section list down
@@ -20,6 +20,12 @@ dateCreated: 2026-09-18T00:00:00.000Z
 
 **Theme** — light, dark, or automatic. Automatic follows the clock, and you
 can set your own dawn and dusk rather than take the defaults.
+
+**English variant** — American, British, Canadian, or Australian English. It
+picks the dictionary the spell check uses, and it tells AI editing which
+convention your manuscript follows. British accepts both -ise and -ize
+spellings; Canadian pairs British-style forms like colour with -ize endings;
+Australian takes -ise only.
 
 **Default save location** — where the file dialog starts when you make a book.
 
@@ -71,3 +77,9 @@ is offline for good. See **[Read Aloud](/writing/read-aloud)**.
 
 Installed plugins and what is available. See
 **[Plugins](/reference/plugins)**.
+
+## About
+
+Your Draftline version, with links to the website and the release pages, and
+the open-source projects Draftline is built on — click one for its links and
+license.
